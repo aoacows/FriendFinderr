@@ -1,0 +1,94 @@
+var friendsArray = [
+
+    {"name":"Lena",
+    "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    "scores":[
+        5,
+        1,
+        4,
+        4,
+        4,
+        4,
+        2,
+        1,
+        3,
+        1
+        ]
+    },
+    {  "name":"Terry",
+    "photo":"https://am21.mediaite.com/tms/cnt/uploads/2019/06/Joaquin-Phoenix-in-Joker-2019-1200x675.jpg",
+    "scores":[
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+        ]
+    },
+    {  "name":"Gina",
+    "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    "scores":[
+        5,
+        1,
+        4,
+        4,
+        5,
+        1,
+        2,
+        5,
+        4,
+        1
+        ]
+    },
+    {  "name":"Louise",
+    "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    "scores":[
+        5,
+        1,
+        4,
+        4,
+        5,
+        1,
+        2,
+        3,
+        4,
+        3
+        ]
+    },
+    {  "name":"JT",
+    "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTvNjkY91z1J99edgXqtjYAjgoGBOIV95t6dtK0nnBEdWCp3tel",
+    "scores":[
+        4,
+        2,
+        5,
+        3,
+        4,
+        2,
+        3,
+        4,
+        5,
+        1
+        ]
+    },
+    {  "name":"Veronica",
+    "photo":"https://i.insider.com/5e064e6b855cc227c63bf037?width=1100&format=jpeg&auto=webp",
+    "scores":[
+        5,
+        4,
+        5,
+        3,
+        1,
+        4,
+        1,
+        3,
+        4,
+        1
+        ]
+    }
+]
+module.export = friendsArray
