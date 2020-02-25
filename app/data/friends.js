@@ -91,4 +91,4 @@ var friendsArray = [
         ]
     }
 ]
-module.export = friendsArray
+module.exports = friendsArray
